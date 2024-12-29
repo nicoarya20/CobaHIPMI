@@ -1,0 +1,1 @@
+export { default as ViewVerifikasi } from "./view/view_verifikasi";
